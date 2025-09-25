@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Alfie and i am studying Computer Science at Leeds BEckett University. I am origionally from Doncaster and enjoy playing darts
 <!--
 **AlfieStephenson/AlfieStephenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
